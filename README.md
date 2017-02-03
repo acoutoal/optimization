@@ -1,5 +1,5 @@
 # optimization
-Implements several optimization and least squares methods, including:
+Implements general function optimization and least squares methods, including:
 
 #steepest_descent
 
